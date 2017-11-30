@@ -1,0 +1,49 @@
+/*.container {
+	border: 1px solid black;
+}*/
+
+/*.div-img-flag {
+	border: 1px solid black;
+	background-image: url("../sources/images/icons-flags.jpg");
+	background-position: 188px 291px;
+	height: 15px;
+	width: 18px;
+}*/
+
+.container-full {
+  margin: 0 auto;
+  width: 100%;
+}
+
+#navbar /*,
+.arglist,
+.arg,
+.exec_opt_params*/ {
+	border: 1px solid black;
+}
+#execute_options_ul {
+	margin-top: 10px;
+}
+
+#button_div {
+	border: 1px solid black;
+	border-radius: 2px;
+}
+
+#execute_options_ul,
+#result_div,
+.exec_opt_params {
+	display: none;
+}
+
+.active_div {
+	display: block !important;
+}
+
+li {
+	list-style-type: none;
+}
+
+.arg > input {
+	text-align: center;
+}
